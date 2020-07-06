@@ -1,0 +1,3 @@
+include ':Testylib'
+include ':app'
+rootProject.name = "Testy"
